@@ -233,7 +233,4 @@ PRODUCT_PACKAGES += \
     libexynoscamera_vpl_plugin \
     liblmecpu \
     libsec2lsi_conversion \
-    libskeymint10device \
-    libskeymint_cli \
-    libswlme \
-    android.hardware.security.keymint-service.samsung
+    libswlme
